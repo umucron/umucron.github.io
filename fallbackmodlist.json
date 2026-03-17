@@ -8,7 +8,7 @@
     "authors": []
   },
   {
-    "name": "name",
+    "name": "SFCore",
     "version": "0.0.0.0",
     "download_url": ""
     "dependencies": []
@@ -16,7 +16,7 @@
     "authors": []
   },
 {
-    "name": "name",
+    "name": "ItemChanger",
     "version": "0.0.0.0",
     "download_url": ""
     "dependencies": []
@@ -24,7 +24,7 @@
     "authors": []
   },
 {
-    "name": "name",
+    "name": "RandomizerCore",
     "version": "0.0.0.0",
     "download_url": ""
     "dependencies": []
@@ -32,7 +32,7 @@
     "authors": []
   },
 {
-    "name": "name",
+    "name": "MenuChanger",
     "version": "0.0.0.0",
     "download_url": ""
     "dependencies": []
@@ -40,7 +40,223 @@
     "authors": []
   },
 {
-    "name": "name",
+    "name": "Benchwarp",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Vasi",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "QoL",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "RandomizerCore.Json",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "DebugMod",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Architect",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Core.FsmUtil",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "CustomKnight",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Enemy HP Bar",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "FasterIntroSkip",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "FrameLimiter",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Hit Counter",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "HKMirror",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "HKMP",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "HKMP.ModDiff",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "HkmpPouch",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "HKTool",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Input Buffers",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Invincibility Monitor",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "ItemSync",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "KorzUtils",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "LoadNormalizer",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "MagicUI",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "NoDying",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Osmi",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Pale Court",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "Pantheons Hit Counter",
+    "version": "0.0.0.0",
+    "download_url": ""
+    "dependencies": []
+    "hash": "None"
+    "authors": []
+  },
+{
+    "name": "RainbowEggs",
     "version": "0.0.0.0",
     "download_url": ""
     "dependencies": []
